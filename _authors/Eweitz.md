@@ -1,10 +1,10 @@
 ---
 username: Eweitz
 realname: Eric Weitz
-website: ~
+website: https://eweitz.github.io/ideogram/gene-leads
 affiliation: ~
-bio: ~
-github: ~
+bio: I refine pathways, and engineer them into tools for biological discovery.
+github: @eweitz
 orcid: ~
 linkedin: ~
 googlescholar: ~
